@@ -11,3 +11,8 @@ Subtract the Product and Sum of Digits of an Integer
 #3 Reverse Integer
 
 ![image](https://user-images.githubusercontent.com/84653100/160810421-74e211dc-ecd2-408d-a906-4bbf844cae0e.png)
+
+
+#4 numbers complement
+
+![image](https://user-images.githubusercontent.com/84653100/160813925-174b0cb3-9c97-4a32-9541-ab1cc872cd8c.png)
