@@ -16,3 +16,8 @@ Subtract the Product and Sum of Digits of an Integer
 #4 numbers complement
 
 ![image](https://user-images.githubusercontent.com/84653100/160813925-174b0cb3-9c97-4a32-9541-ab1cc872cd8c.png)
+
+
+#5 Complement of Base 10 Integer.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/161106181-c9b2ed11-f8ab-4320-a51d-19682ea7a1b2.png)
