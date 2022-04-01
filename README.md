@@ -21,3 +21,8 @@ Subtract the Product and Sum of Digits of an Integer
 #5 Complement of Base 10 Integer.cpp
 
 ![image](https://user-images.githubusercontent.com/84653100/161106181-c9b2ed11-f8ab-4320-a51d-19682ea7a1b2.png)
+
+
+#6 power of two.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/161204227-2418632c-cfa4-4a4b-a06f-835015e82170.png)
