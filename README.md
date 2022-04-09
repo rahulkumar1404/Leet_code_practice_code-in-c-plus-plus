@@ -26,3 +26,9 @@ Subtract the Product and Sum of Digits of an Integer
 #6 power of two.cpp
 
 ![image](https://user-images.githubusercontent.com/84653100/161204227-2418632c-cfa4-4a4b-a06f-835015e82170.png)
+
+
+#7 Peak Index in a Mountain Array.cpp
+
+
+![image](https://user-images.githubusercontent.com/84653100/162562253-ba282c28-da82-453b-9105-312ba9c0f2e1.png)
