@@ -32,3 +32,8 @@ Subtract the Product and Sum of Digits of an Integer
 
 
 ![image](https://user-images.githubusercontent.com/84653100/162562253-ba282c28-da82-453b-9105-312ba9c0f2e1.png)
+
+#8 Merge Sorted Array.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/164059803-95e8cac4-e0c5-4841-966a-711857bf0b54.png)
+
