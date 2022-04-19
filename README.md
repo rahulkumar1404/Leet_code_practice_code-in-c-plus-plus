@@ -37,3 +37,8 @@ Subtract the Product and Sum of Digits of an Integer
 
 ![image](https://user-images.githubusercontent.com/84653100/164059803-95e8cac4-e0c5-4841-966a-711857bf0b54.png)
 
+
+#9 Move Zeroes.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/164062512-1496c213-1174-4a53-aa42-b2b5ec8289fc.png)
+
