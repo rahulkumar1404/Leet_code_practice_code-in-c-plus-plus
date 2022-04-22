@@ -42,3 +42,8 @@ Subtract the Product and Sum of Digits of an Integer
 
 ![image](https://user-images.githubusercontent.com/84653100/164062512-1496c213-1174-4a53-aa42-b2b5ec8289fc.png)
 
+
+Q10 Rotate Array.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/164752151-1711a4c4-ce0b-427c-a31b-1f2e523f19f9.png)
+
