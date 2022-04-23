@@ -47,3 +47,8 @@ Q10 Rotate Array.cpp
 
 ![image](https://user-images.githubusercontent.com/84653100/164752151-1711a4c4-ce0b-427c-a31b-1f2e523f19f9.png)
 
+
+Q11 Check if Array Is Sorted and Rotated.cpp
+
+
+![image](https://user-images.githubusercontent.com/84653100/164882563-427c8920-beef-41d8-bbbf-4ab9a2d1e275.png)
